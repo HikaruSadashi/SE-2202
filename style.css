@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-=======
-div.background-imagea {
+div.background-image {
     font-family: Roboto;
     background-image: url('background2.jpg');
     background-size: cover;
@@ -157,4 +155,3 @@ body {
       display: initial;
     }
   }
->>>>>>> Stashed changes
